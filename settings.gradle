@@ -1,2 +1,2 @@
-include ':app', ':activity2'
+include ':app', ':activity2', ':intent', ':service'
 rootProject.name='My Application'
