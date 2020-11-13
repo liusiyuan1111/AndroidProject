@@ -1,0 +1,2 @@
+include ':app', ':activity2'
+rootProject.name='My Application'
