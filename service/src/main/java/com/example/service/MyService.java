@@ -36,7 +36,7 @@ public class MyService extends Service {
                         e.printStackTrace();
                     }
                     ++i;
-                    Log.i("服务执行中：",Integer.toString(i));
+                    Log.i("服务执行中：",String.valueOf(i));
                 }
                 //停止服务方法1
                 //stopSelf();

@@ -6,8 +6,16 @@
       <module fileurl="file://$PROJECT_DIR$/activity2/activity2.iml" filepath="$PROJECT_DIR$/activity2/activity2.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/boundservice/boundservice.iml" filepath="$PROJECT_DIR$/boundservice/boundservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcastreceiver/broadcastreceiver.iml" filepath="$PROJECT_DIR$/broadcastreceiver/broadcastreceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clickorder/clickorder.iml" filepath="$PROJECT_DIR$/clickorder/clickorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/event/event.iml" filepath="$PROJECT_DIR$/event/event.iml" />
       <module fileurl="file://$PROJECT_DIR$/intent/intent.iml" filepath="$PROJECT_DIR$/intent/intent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intentservice/intentservice.iml" filepath="$PROJECT_DIR$/intentservice/intentservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sendbroadcast/sendbroadcast.iml" filepath="$PROJECT_DIR$/sendbroadcast/sendbroadcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sendreceiver/sendreceiver.iml" filepath="$PROJECT_DIR$/sendreceiver/sendreceiver.iml" />
       <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/touch/touch.iml" filepath="$PROJECT_DIR$/touch/touch.iml" />
     </modules>
   </component>
 </project>

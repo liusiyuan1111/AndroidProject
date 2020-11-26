@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 //停止服务的方法2
                 stopService(intent);
+                
 
             }
         });
