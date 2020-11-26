@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/My Application.iml" filepath="$PROJECT_DIR$/My Application.iml" />
       <module fileurl="file://$PROJECT_DIR$/activity2/activity2.iml" filepath="$PROJECT_DIR$/activity2/activity2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alertdialog-1/alertdialog-1.iml" filepath="$PROJECT_DIR$/alertdialog-1/alertdialog-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/boundservice/boundservice.iml" filepath="$PROJECT_DIR$/boundservice/boundservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/broadcastreceiver/broadcastreceiver.iml" filepath="$PROJECT_DIR$/broadcastreceiver/broadcastreceiver.iml" />

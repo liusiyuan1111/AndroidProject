@@ -1,2 +1,2 @@
-include ':app', ':activity2', ':intent', ':service', ':boundservice', ':intentservice', ':broadcastreceiver', ':sendbroadcast', ':test', ':sendreceiver', ':event', ':touch', ':clickorder'
+include ':app', ':activity2', ':intent', ':service', ':boundservice', ':intentservice', ':broadcastreceiver', ':sendbroadcast', ':test', ':sendreceiver', ':event', ':touch', ':clickorder', ':alertdialog-1'
 rootProject.name='My Application'
