@@ -5,12 +5,16 @@
       <module fileurl="file://$PROJECT_DIR$/My Application.iml" filepath="$PROJECT_DIR$/My Application.iml" />
       <module fileurl="file://$PROJECT_DIR$/activity2/activity2.iml" filepath="$PROJECT_DIR$/activity2/activity2.iml" />
       <module fileurl="file://$PROJECT_DIR$/alertdialog-1/alertdialog-1.iml" filepath="$PROJECT_DIR$/alertdialog-1/alertdialog-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anim/anim.iml" filepath="$PROJECT_DIR$/anim/anim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animation/animation.iml" filepath="$PROJECT_DIR$/animation/animation.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/boundservice/boundservice.iml" filepath="$PROJECT_DIR$/boundservice/boundservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/broadcastreceiver/broadcastreceiver.iml" filepath="$PROJECT_DIR$/broadcastreceiver/broadcastreceiver.iml" />
       <module fileurl="file://$PROJECT_DIR$/clickorder/clickorder.iml" filepath="$PROJECT_DIR$/clickorder/clickorder.iml" />
       <module fileurl="file://$PROJECT_DIR$/draw/draw.iml" filepath="$PROJECT_DIR$/draw/draw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawpath/drawpath.iml" filepath="$PROJECT_DIR$/drawpath/drawpath.iml" />
       <module fileurl="file://$PROJECT_DIR$/event/event.iml" filepath="$PROJECT_DIR$/event/event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frame-animation/frame-animation.iml" filepath="$PROJECT_DIR$/frame-animation/frame-animation.iml" />
       <module fileurl="file://$PROJECT_DIR$/intent/intent.iml" filepath="$PROJECT_DIR$/intent/intent.iml" />
       <module fileurl="file://$PROJECT_DIR$/intentservice/intentservice.iml" filepath="$PROJECT_DIR$/intentservice/intentservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
